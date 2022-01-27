@@ -1,5 +1,5 @@
 ---
-title: "Product Offerings"
+title: "Product OfferingsX"
 path: "/programs/product-offerings.html"
 id: "programs/product-offerings"
 ---
